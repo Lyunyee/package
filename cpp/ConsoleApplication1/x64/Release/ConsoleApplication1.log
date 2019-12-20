@@ -1,0 +1,105 @@
+﻿  ConsoleApplication1.cpp
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(654): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1258): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1259): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1269): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1270): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1271): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1272): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1273): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1274): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1325): warning C4101: “s”: 未引用的局部变量
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1369): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1368): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1472): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1560): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1612): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1643): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1709): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2056): warning C4244: “return”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2078): warning C4244: “return”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2082): warning C4244: “return”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2412): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2413): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2414): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2415): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2416): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2417): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2418): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2419): warning C4099: “CvMat”: 类型名称以前使用“struct”现在使用的是“class”
+  d:\opencv\build\include\opencv2\core\types_c.h(627): note: 参见“CvMat”的声明
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2522): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2843): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2976): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2980): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(3033): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(3534): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(3568): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(3776): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(3782): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(3789): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(3790): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(4130): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(4168): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(4253): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(998): warning C4244: “参数”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+  d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(995): note: 编译 类 模板 成员函数 "void TAT2<double>::defineAsScaledRigidTransformation(REAL,REAL,TV2<REAL>)" 时
+          with
+          [
+              REAL=double
+          ]
+  d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2063): note: 参见对正在编译的函数 模板 实例化“void TAT2<double>::defineAsScaledRigidTransformation(REAL,REAL,TV2<REAL>)”的引用
+          with
+          [
+              REAL=double
+          ]
+  d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(1924): note: 参见对正在编译的 类 模板 实例化 "TAT2<double>" 的引用
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(999): warning C4244: “参数”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(951): warning C4244: “初始化”: 从“REAL”转换到“float”，可能丢失数据
+          with
+          [
+              REAL=double
+          ]
+  d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(948): note: 编译 类 模板 成员函数 "REAL TAT2<REAL>::phiOut(REAL)" 时
+          with
+          [
+              REAL=double
+          ]
+  d:\专业课程设计\consoleapplication1副本\consoleapplication1\consoleapplication1.cpp(2052): note: 参见对正在编译的函数 模板 实例化“REAL TAT2<REAL>::phiOut(REAL)”的引用
+          with
+          [
+              REAL=double
+          ]
+  正在生成代码
+  1 of 1422 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication1.vcxproj -> D:\专业课程设计\ConsoleApplication1副本\x64\Release\ConsoleApplication1.exe
